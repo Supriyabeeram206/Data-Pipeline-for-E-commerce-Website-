@@ -35,3 +35,4 @@ Key Achievements
 Generated a scalable data pipeline using Apache Kafka for real-time data ingestion and Apache Spark for processing.
 Handled ETL processes to transform raw sales data into actionable insights using Apache Airflow.
 Deployed the solution on AWS with S3 for data storage and Redshift for data warehousing, ensuring data reliability and scalability.
+![architecture](https://github.com/user-attachments/assets/ee405133-0cac-4026-9a3a-6da9aab416aa)
